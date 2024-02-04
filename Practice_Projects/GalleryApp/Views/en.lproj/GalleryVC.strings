@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "7Tl-cQ-joY"; */
+"7Tl-cQ-joY.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7Tl-cQ-joY"; */
+"7Tl-cQ-joY.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Confirm"; ObjectID = "O9s-zN-Ycn"; */
+"O9s-zN-Ycn.configuration.title" = "Confirm";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "O9s-zN-Ycn"; */
+"O9s-zN-Ycn.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Zuf-vA-cwT"; */
+"Zuf-vA-cwT.normalTitle" = "Button";

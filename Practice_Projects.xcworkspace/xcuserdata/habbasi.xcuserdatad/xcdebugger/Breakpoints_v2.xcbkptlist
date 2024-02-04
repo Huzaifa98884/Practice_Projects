@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "146457E0-79CD-48FF-9F4D-5DE36A97F225"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1ACB898-5192-4CA7-90CC-CF0ACAAD7BC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Practice_Projects/Extensions/StoryBoardExtensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "instantiate(appStoryboard:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4E18B74-2DD8-41B6-87F4-507C33F0B2A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Practice_Projects/Extensions/StringExtensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "localizeString()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B4E18B74-2DD8-41B6-87F4-507C33F0B2A2 - 5e8e86f18c7c1b2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.String.localizeString() -&gt; Swift.String"
+                  moduleName = "Practice_Projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/habbasi/Desktop/course%20dev/Practice_Projects/Practice_Projects/Extensions/StringExtensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "B4E18B74-2DD8-41B6-87F4-507C33F0B2A2 - 5e8e86f18c7c1b2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.String.localizeString() -&gt; Swift.String"
+                  moduleName = "Practice_Projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/habbasi/Desktop/course%20dev/Practice_Projects/Practice_Projects/Extensions/StringExtensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "B4E18B74-2DD8-41B6-87F4-507C33F0B2A2 - 5e8e86f18c7c1b2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.String.localizeString() -&gt; Swift.String"
+                  moduleName = "Practice_Projects"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/habbasi/Desktop/course%20dev/Practice_Projects/Practice_Projects/Extensions/StringExtensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "588">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

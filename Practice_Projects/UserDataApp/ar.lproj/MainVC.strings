@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Ha-ca-pO6"; */
+"4Ha-ca-pO6.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "A6x-py-hCs"; */
+"A6x-py-hCs.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Gu8-Nl-JLg"; */
+"Gu8-Nl-JLg.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "KGU-BN-cfj"; */
+"KGU-BN-cfj.placeholder" = "اسم المستخدم";
+
+/* Class = "UILabel"; text = "Login Page"; ObjectID = "Uy8-gA-HQd"; */
+"Uy8-gA-HQd.text" = "صفحة تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Name: "; ObjectID = "ZbT-iE-Xga"; */
+"ZbT-iE-Xga.text" = "اسم: ";
+
+/* Class = "UILabel"; text = "Email: "; ObjectID = "bAx-yq-JDO"; */
+"bAx-yq-JDO.text" = "بريد إلكتروني:";
+
+/* Class = "UILabel"; text = "Phone No: "; ObjectID = "csD-gA-YEu"; */
+"csD-gA-YEu.text" = "رقم الهاتف:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "e0X-xi-F6f"; */
+"e0X-xi-F6f.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "y4e-KJ-V1d"; */
+"y4e-KJ-V1d.normalTitle" = "تسجيل الدخول";
